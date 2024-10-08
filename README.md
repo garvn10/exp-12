@@ -29,8 +29,8 @@ Destructor release memory space occupied by the objects created by the construct
 
 (A) <br> 
 ```
-// NAME - SHIVENDRA DWIVEDI
-// PRN- 23070123122
+// NAME - GARV NANDWANA
+// PRN- 23070123167
 // EXPERIMENT - 12(A) 
 
 #include<iostream> 
@@ -67,8 +67,8 @@ int main()
 
 (B) <br> 
 ```
-// NAME - SHIVENDRA DWIVEDI
-// PRN - 23070123122
+// NAME - GARV NANDWANA
+// PRN - 23070123167
 // EXPERIMENT - 12(B)
 
 #include<iostream>
@@ -96,8 +96,8 @@ int main()
 
 (C) <br> 
 ```
-// NAME - SHIVENDRA DWIVEDI 
-// PRN - 23070123122 
+// NAME - GARV NANDWANA
+// PRN - 23070123167
 // EXPERIMENT - 12(C) 
 
 #include<iostream>
